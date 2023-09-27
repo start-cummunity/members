@@ -53,6 +53,6 @@ The `.start Community Members` application is released under the [MIT License](L
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the `.start Community Members` application, please reach out to us at [community@example.com](mailto:dot.start.gmail.com). We value your input and would love to hear from you!
+If you have any questions, suggestions, or feedback regarding the `.start Community Members` application, please reach out to us at [community@example.com](mailto:dot.start.dev.@gmail.com). We value your input and would love to hear from you!
 
 Thank you for being a part of our community, and we hope you enjoy using the `.sta
